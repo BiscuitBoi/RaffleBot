@@ -1,0 +1,28 @@
+1655742423476	geckodriver	INFO	Listening on 127.0.0.1:50205
+1655742423898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50206" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1h/hw4ll6zn1r99dxjbx2gyfb5h0000gn/T/rust_mozprofileQlbRma"
+1655742424237	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50206
+2022-06-20 18:27:04.291 plugin-container[2116:34039] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-20 18:27:04.292 plugin-container[2116:34039] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-20 18:27:04.297 plugin-container[2116:34039] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-20 18:27:04.297 plugin-container[2116:34039] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-20 18:27:04.297 plugin-container[2116:34037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-20 18:27:04.297 plugin-container[2116:34037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1h/hw4ll6zn1r99dxjbx2gyfb5h0000gn/T/rust_mozprofileQlbRma/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655742425379	Marionette	INFO	Listening on port 50219
+DevTools listening on ws://localhost:50206/devtools/browser/a636cda2-d36b-4b86-a8ee-d5480c1a13af
+Read port: 50219
+1655742425476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.nike.com/cUyh/gmYH/9Vfq/_rzMaA/OL3NScJL/M35adQZpAw/ey9/jNXodQCA, line 1: unreachable code after return statement
+JavaScript warning: https://www.nike.com/cUyh/gmYH/9Vfq/_rzMaA/OL3NScJL/M35adQZpAw/ey9/jNXodQCA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nike.com/cUyh/gmYH/9Vfq/_rzMaA/OL3NScJL/M35adQZpAw/ey9/jNXodQCA, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ak_bmsc_nke-2.3=0a0yX3T6sDLDL0GsryM8AE3KfckbSdAWuiyKgf99I2bgd7DqQr805TcC4oOlK9fNgSxmHnOWicG31YYNhLZtH6kPkYfDFLZBU9fKyIs8qoorIva89wHYiVYBPKS8MnmiTiu0NAoZV8S3WioIVDwegY3K, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ak_bmsc_nke-2.3=0a0yX3T6sDLDL0GsryM8AE3KfckbSdAWuiyKgf99I2bgd7DqQr805TcC4oOlK9fNgSxmHnOWicG31YYNhLZtH6kPkYfDFLZBU9fKyIs8qoorIva89wHYiVYBPKS8MnmiTiu0NAoZV8S3WioIVDwegY3K, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ak_bmsc_nke-2.3=0a0yX3T6sDLDL0GsryM8AE3KfckbSdAWuiyKgf99I2bgd7DqQr805TcC4oOlK9fNgSxmHnOWicG31YYNhLZtH6kPkYfDFLZBU9fKyIs8qoorIva89wHYiVYBPKS8MnmiTiu0NAoZV8S3WioIVDwegY3K, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://unite.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ak_bmsc_nke-2.3=08XwOXATGYBBO53JrA7UDHd8qXS6FZG8VTeomDWW4zzmKADTKaKkzLD7iSsRdWyH7JmjVLF2bRz0Kd8K6qTvtTU8DmGt1f9lLsa5ZuZ4wpjLdYOMX8SEea0c3Np4wzJFPFI18LyTi9xs0FYmjW1K20LI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://unite.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ak_bmsc_nke-2.3=08XwOXATGYBBO53JrA7UDHd8qXS6FZG8VTeomDWW4zzmKADTKaKkzLD7iSsRdWyH7JmjVLF2bRz0Kd8K6qTvtTU8DmGt1f9lLsa5ZuZ4wpjLdYOMX8SEea0c3Np4wzJFPFI18LyTi9xs0FYmjW1K20LI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://unite.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ak_bmsc_nke-2.3=08XwOXATGYBBO53JrA7UDHd8qXS6FZG8VTeomDWW4zzmKADTKaKkzLD7iSsRdWyH7JmjVLF2bRz0Kd8K6qTvtTU8DmGt1f9lLsa5ZuZ4wpjLdYOMX8SEea0c3Np4wzJFPFI18LyTi9xs0FYmjW1K20LI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655742701324	Marionette	INFO	Stopped listening on port 50219
